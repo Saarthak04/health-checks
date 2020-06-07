@@ -1,9 +1,6 @@
 # health-checks
 To check health of our Computer System
 
-This Repo will be populated with lots of fancy checks.
-We will begin shortly..
+This line is present only in third-branch
 
-This line is present only in second-branch
-
-This line is successfully pulled..
+This code is successfully pulled and merge conflicts section has been covered..
