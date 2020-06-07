@@ -6,4 +6,4 @@ We will begin shortly..
 
 This line is present only in second-branch
 
-This line is not pulle Yet..
+This line is not pulled Yet..
